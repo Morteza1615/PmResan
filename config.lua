@@ -1,9 +1,9 @@
-bot_token = "280289915:AAFtkQrjGTE2oSkwiv0OPkUGsZwOenGnwXw"
+bot_token = "379039211:AAH8ydXXQVIaHmgph_B7WWj3zKEFiIIT8xs"
 send_api = "https://api.telegram.org/bot"..bot_token
 bot_version = "6.0"
 sudo_name = "Engineer morteza_wolf"
 sudo_id = 191128096
 admingp = -191128096
-sudo_num = "989378284718"
-sudo_user = "m_wooolf"
-sudo_ch = "wolf_team"
+sudo_num = "989351615378"
+sudo_user = "morii_wolf"
+sudo_ch = "morii_wolf"
